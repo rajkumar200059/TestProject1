@@ -10,7 +10,7 @@ namespace TestProject1
         [SetUp]
         public void Setup()
         {
-            driver = new ChromeDriver("C:\\Users\\rajku\\source\\repos\\TestProject1\\bin\\Debug\\net6.0\\drivers\\chromedriver.exe");
+            driver = new ChromeDriver("C:\\Users\\rajku\\source\\repos\\TestProject1\\bin\\Debug\\net6.0\\chromedriver.exe");
         }
 
         [Test]
