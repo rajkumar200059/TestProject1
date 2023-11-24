@@ -10,7 +10,6 @@ namespace TestProject1
         [SetUp]
         public void Setup()
         {
-            // this path will be change based on your local path
             driver = new ChromeDriver("C:\\Users\\rajku\\source\\repos\\TestProject1\\bin\\Debug\\net6.0\\chromedriver.exe");
         }
 
